@@ -10,7 +10,6 @@ cmake-build-*/
 
 # IDE specific folders
 .idea/
-.vscode/
 .vs/
 .cache/
 
@@ -53,3 +52,5 @@ docs/xml/
 docs/Doxyfile
 docs/conf.py
 docs/.venv/
+config.bat
+node_modules

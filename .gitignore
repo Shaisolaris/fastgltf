@@ -12,7 +12,6 @@ __pycache__/
 
 # IDE specific folders
 .idea/
-.vscode/
 .vs/
 .cache/
 .zed/
@@ -52,3 +51,5 @@ docs/xml/
 docs/Doxyfile
 docs/conf.py
 docs/.venv/
+config.bat
+node_modules
